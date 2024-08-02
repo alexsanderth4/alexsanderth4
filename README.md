@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**alexsanderth4/alexsanderth4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm a passionate software engineer with a focus on building robust and scalable software solutions. I have a keen interest in **Behavior-Driven Development (BDD)** and am particularly adept at integrating BDD with **Object-Oriented Programming (OOP)** practices in Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** Django, Flask, React, Node.js
+- **Testing & BDD:** Behave, unittest, pytest, Selenium
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Other Tools:** Git, JIRA, VS Code, IntelliJ IDEA
+---
+
+Thank you for visiting my GitHub profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
